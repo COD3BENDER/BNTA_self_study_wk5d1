@@ -1,4 +1,4 @@
-# Untitled
+# Software Design Methodologies
 
 1. What do we mean by **coupling** and **cohesion** when discussing structured design?
     1. Coupling indicates the level of dependence between classes or packages, meaning that if one thing is changed in a class, this would also need to be adjusted on other classes that depends on it otherwise it could cause errors in the software. Cohesion indicates the level of which classes relate to one another. When discussing structured design, a module with Low Coupling and High Cohesion allows the code to be easier to change, read and easier to test.
